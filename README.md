@@ -83,6 +83,5 @@ logger.mytag();
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
+[![CC0](assets/images/opensrc.png)](https://opensource.org/licenses/MIT)
 To the extent possible under law, [Marcus Hobbs](https://github.com/dhobbs81) has waived all copyright and related or neighboring rights to this work.

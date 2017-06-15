@@ -6,14 +6,21 @@
 
 This is a node command-line application incorporating several generally useful npm packages. The application is written entirely in ES6 and transpiled using babel.
 
-Usage:
+Running the app:
 > DEBUG=* src/app.js
 
+Building the app:
+> npm run build
+
+Building the docs:
+> npm run docs
+
 ## Packages
-- https://www.npmjs.com/package/babel-cli
-- https://www.npmjs.com/package/chalk
-- https://www.npmjs.com/package/commander
-- https://www.npmjs.com/package/debug
+- [babel-cli](https://www.npmjs.com/package/babel-cli)
+- [chalk](https://www.npmjs.com/package/chalk)
+- [commander](https://www.npmjs.com/package/commander)
+- [debug](https://www.npmjs.com/package/debug)
+- [jsdoc](https://www.npmjs.com/package/jsdoc)
 
 ## Example
 ```javascript

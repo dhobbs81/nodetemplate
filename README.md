@@ -12,8 +12,7 @@ This is a node command-line application incorporating several generally useful n
 - https://www.npmjs.com/package/commander
 - https://www.npmjs.com/package/debug
 
-## Examples
-> A curated list of awesome READMEs
+## Example
 ```javascript
 #!/usr/bin/npm start
 // Calls npm to start this script; requires a start target in package.json
@@ -44,7 +43,7 @@ import app from 'commander';    // Provides utils for command line apps
 logger.mytag = () => {
     // Define a chalk style to colorize error messages
     let style = chalk.bgRed.bold.yellow;
-    let mytag = "̿' ̿'\̵͇̿̿\з=(◕_◕)=ε/̵͇̿̿/'̿'̿ ̿"; // We signs our work for the masses
+    let mytag = " ̿ ̿\̵͇̿̿\з=(◕_◕)=ε/̵͇̿̿/'̿'̿ ̿"; // We signs our work for the masses
     logger(style(mytag));
 };
 /**

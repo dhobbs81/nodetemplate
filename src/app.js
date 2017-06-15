@@ -27,7 +27,7 @@ import app from 'commander';    // Provides utils for command line apps
 logger.mytag = () => {
     // Define a chalk style to colorize error messages
     let style = chalk.bgRed.bold.yellow;
-    let mytag = "┌∩┐(◣_◢)┌∩┐"; // We signs our work for the masses
+    let mytag = " ̿ ̿\̵͇̿̿\з=(◕_◕)=ε/̵͇̿̿/'̿'̿ ̿"; // We signs our work for the masses
     logger(style(mytag));
 };
 /**

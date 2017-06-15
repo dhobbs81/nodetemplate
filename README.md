@@ -7,7 +7,7 @@
 This is a node command-line application incorporating several generally useful npm packages. The application is written entirely in ES6 and transpiled using babel.
 
 Usage:
-> > DEBUG=* src/app.js
+> DEBUG=* src/app.js
 
 ## Packages
 - https://www.npmjs.com/package/babel-cli
